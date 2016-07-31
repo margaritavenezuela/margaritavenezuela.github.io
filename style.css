@@ -1,0 +1,33 @@
+
+
+
+
+
+
+body { margin: 0px 0px 0px 0px; padding: 0px; text-align: center; }
+div#container { margin-left: auto; margin-right: auto; width: 50em; }
+div#seesmiccontainer { margin-left: auto; margin-right: auto; width: 50em; background-color: Red; }
+.mainText {	font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; font-weight: normal; }
+A.mainText {	font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;	text-decoration: none;}
+A:HOVER.mainText {	font-family: Arial, Helvetica, sans-serif;	font-size: 12px; color: #3c7193; text-decoration: underline;}
+
+.mainTextHome {	font-family: Arial, Helvetica, sans-serif; font-size: 27px; color: Gray; font-weight: normal; }
+A.mainTextHome {	font-family: Arial, Helvetica, sans-serif; font-size: 27px; color: Gray;	text-decoration: underline;}
+A:HOVER.mainTextHome {	font-family: Arial, Helvetica, sans-serif;	font-size: 27px; color: #3c7193; text-decoration: underline;}
+
+.mainTextHomeSmall {	font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: Gray; font-weight: normal; }
+A.mainTextHomeSmall {	font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: Gray;	text-decoration: none;}
+A:HOVER.mainTextHomeSmall {	font-family: Arial, Helvetica, sans-serif;	font-size: 12px; color: #3c7193; text-decoration: underline;}
+
+.menuText {	font-family: Arial, Helvetica, sans-serif; font-size: 22px; color: #ffffff; font-weight: normal; }
+A.menuText {	font-family: Arial, Helvetica, sans-serif; font-size: 22px; color: #ffffff;	text-decoration: none;}
+A:HOVER.menuText {	font-family: Arial, Helvetica, sans-serif;	font-size: 22px; color: Maroon; text-decoration: underline;}
+
+#ParaText { font-family: Arial; font-size: 11px; font-weight: normal; color: #0f1417;  text-align: left; }
+#ParaHeader { font-family: Arial; font-size: 20px; font-weight: bold; color: #5583a4;  text-align: left;  text-decoration: none; }
+A.ParaHeader { font-family: Arial; font-size: 20px; font-weight: bold; color: #5583a4;  text-align: left; text-decoration: none; }
+A:HOVER.ParaHeader { font-family: Arial; font-size: 20px; font-weight: bold; color: #5583a4;  text-align: left; text-decoration: underline; }
+
+.footerText {	font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: Gray; font-weight: normal; }
+A.footerText {	font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: Gray;	text-decoration: none;}
+A:HOVER.footerText {	font-family: Arial, Helvetica, sans-serif;	font-size: 11px; color: Maroon; text-decoration: underline;}
